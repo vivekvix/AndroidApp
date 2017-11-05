@@ -24,11 +24,20 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical" >
 
-                <TextView
+                <WebView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/textView1"
+
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"/>
+
+            <!--    <TextView
                     android:id="@+id/textView1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Data111111111 science is an exciting discipline that allows you to turn raw data into understanding, insight, and knowledge. The goal of “R for Data Science” is to help you learn the most important tools in R that will allow you to do data science. After reading this book, you’ll have the tools to tackle a wide variety of data science challenges, using the best parts of R." />
+            -->
             </LinearLayout>
         </ScrollView>
 

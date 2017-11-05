@@ -51,4 +51,12 @@
         <p>A new major version of R comes out once a year, and there are 2 3 minor releases each year. It’s a good idea to update regularly. Upgrading can be a bit of a hassle, especially for major versions, which require you to reinstall all your packages, but putting it off only makes it worse.</p>
         ]]>
     </string>
+
+    <string name="html1">
+        <![CDATA[
+        <h1>introduction</h1>
+		<p>Data science is an exciting discipline that allows you to turn raw data into understanding, insight, and knowledge. The goal of “R for Data Science” is to help you learn the most important tools in R that will allow you to do data science. After reading this book, you’ll have the tools to tackle a wide variety of data science challenges, using the best parts of R.</p>
+        <h2>What you will learn</h2>
+        ]]>
+    </string>
 </resources>
