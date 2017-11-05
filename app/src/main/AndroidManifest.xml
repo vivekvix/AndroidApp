@@ -24,6 +24,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".chapter1"></activity>
+        <activity android:name=".chapter2"></activity>
     </application>
 
 </manifest>
